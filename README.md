@@ -6,11 +6,17 @@
 I'm a Computer Technologies Engineering student apasionado por crear y jugar videojuegos.
 Me encanta retarme a mí mismo a través de soluciones que requieren lógica y creatividad
 
+## 🎮 Featured Project
+
+### 🧠 [Discere](link-al-repositorio)
+
+An educational video game designed to [resolver qué problema / enseñar qué tema].
+
 ---
 ## 🧠 Interests
 
 ---
-## 📌 What I’m Currently Working On
+## 📌 Projects
 
 ---
 ## 🧰 Tech Stack
