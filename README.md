@@ -3,8 +3,7 @@
 💻 Developer | 🎮 Game Dev | 🎸 Musician | 🦵🏽 Runner
 ## About Me
 
-I'm a Computer Technologies Engineering student apasionado por crear y jugar videojuegos.
-Me encanta retarme a mí mismo a través de soluciones que requieren lógica y creatividad
+I'm a Computer Technologies Engineering student passionate about creating and playing video games. I love challenging myself with solutions that require logic and creativity.
 
 ## Featured Project
 
