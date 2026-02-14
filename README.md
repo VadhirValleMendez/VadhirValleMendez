@@ -10,7 +10,7 @@ Me encanta retarme a mí mismo a través de soluciones que requieren lógica y c
 
 ### 🧠 [Discere](link-al-repositorio)
 
-<img src = ASSETS/Logo.gif width = "100px">
+<img src = ASSETS/Logo.gif width = "1000px">
 
 An educational video game designed to [resolver qué problema / enseñar qué tema].
 
