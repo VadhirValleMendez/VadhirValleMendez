@@ -16,18 +16,8 @@ Me encanta retarme a mí mismo a través de soluciones que requieren lógica y c
 ## 🧰 Tech Stack
 
 ### Languages
-- C#
-- C++
-- Java
-- JavaScript
-- Python
 
 ### Tools & Technologies
-- Unity 3D
-- Git & GitHub
-- Visual Studio
-- HTML & CSS
-- MySQL
 
 ---
 ## 📌 What I’m Currently Working On
