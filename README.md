@@ -11,7 +11,7 @@ Me encanta retarme a mí mismo a través de soluciones que requieren lógica y c
 ### [Discere](link-al-repositorio)
 
 <p align="center">
-  <img src = ASSETS/Logo.gif width = "1000px">
+  <img src = ASSETS/Logo.gif width = "800px">
 </p>
 
 Discere is an educational project designed to strengthen the learning of multiplication tables from 1 to 10 in elementary school students. This proposal combines the use of an educational workbook that introduces and practices each multiplication table with educational software that contains a video game that reinforces the content through short mini-games and a scoring and star system to track progress.
